@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I am in love with guinea pigs
 
 
-I ma very happy to be here with regards to all my supporters.
+I am very happy to be here with regards to all my supporters.
 
 Link to my GitHubpage
 
