@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**mrowki35/mrowki35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-/*
-Here are some ideas to get you started:
-*/
 - 🔭 I’m currently working on ... My first app
 - 🌱 I’m currently learning ... Python, C++, UE5,
 - 👯 I’m looking to collaborate on ...
@@ -16,8 +11,4 @@ Here are some ideas to get you started:
 
 
 I am very happy to be here with regards to all my supporters.
-
-Link to my GitHubpage
-
-https://mrowki35.github.io/
 
