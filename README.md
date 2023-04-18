@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... My first app
-- 🌱 I’m currently learning ... Python, C++, UE5,
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... via Facebook
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... I am in love with guinea pigs
-
-
-I am very happy to be here with regards to all my supporters.
+- 🔭 I’m currently working on AI to automatically get poduct prices form websites and an algorythm to predict stock prices
+- 🌱 I’m currently learning German and keep impoving my skills in C++ and Python
+- 📫 How to reach me: my LinkedIn profile www.linkedin.com/in/przorlik
+- ⚡ Fun fact: I am in love with guinea pigs
 
