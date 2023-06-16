@@ -3,10 +3,6 @@
   </div>
   
 -------
-<div style="width: 100%;">
-    <img src="silent.svg" style="width: 100%;" alt="Click to see the source">
-  </div>
-
 
 <div align="center">
   <h3>SOFTWARE DEVELOPER FROM POLAND</h3>
