@@ -5,7 +5,6 @@
 - 📫 How to reach me: [my LinkedIn profile](www.linkedin.com/in/przorlik)
 - ⚡ Fun fact: I am in love with guinea pigs
 
-<!-- <link rel="stylesheet" href="styles.css"> -->
 
 ### Languages
 
@@ -17,4 +16,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrowki35&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrowki35&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<div class="animated-text">Silent</div>
+![Silent](./path/silent.svg)
