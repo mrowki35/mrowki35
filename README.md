@@ -16,10 +16,10 @@
 - 📌 How to reachy me: [My LinkedIn](https://www.linkedin.com/in/przorlik)
 - 🤖 Take a look at my projects here: [My Portfolio](https://github.com/mrowki35?tab=repositories)
 
-## Languages
+-------
+## Technologies and Tools
 
-## Tools
-
+-------
 ## My Github stats
 
 <div align="center">
@@ -32,7 +32,5 @@
   </div>
 </div>
 
-
-    
----
+-------
 
