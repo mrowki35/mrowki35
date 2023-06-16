@@ -43,6 +43,26 @@
             background-position: 0% 50%;
           }
         }
+
+        /* Zasady mediów */
+        @media (prefers-color-scheme: light) {
+          .container {
+            --color-main: #F15BB5;
+            --color-primary: #24b0ef;
+            --color-secondary: #4526f6;
+            --color-tertiary: #f6f645;
+          }
+        }
+
+        @media (prefers-reduced-motion) {
+          .container {
+            animation: none;
+          }
+
+          .hi {
+            animation: none;
+          }
+        }
       </style>
 
       <div class="container">
