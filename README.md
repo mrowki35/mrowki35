@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning German and continuously improving my skills in **C++ and Python**
 - ⚡ Fun fact: On most media i stick to nickname **SiLenT**
 - 🚀 I’m looking for **a job as Python Developer**
-- 📌 How to reachy me: [My LinkedIn](https://www.linkedin.com/in/przorlik)
+- 📌 How to reach me: [My LinkedIn](https://www.linkedin.com/in/przorlik)
 - 🤖 Take a look at my projects here: [My Portfolio](https://github.com/mrowki35?tab=repositories)
 
 -------
