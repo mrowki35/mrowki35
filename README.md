@@ -25,7 +25,6 @@
 </div>
 
 <div align="center">
-  <div style="width: 100%; height: 200px;" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrowki35&layout=compact&theme=dracula" style="width: 100%; height: 200px;"  alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrowki35&layout=compact&theme=dracula" width="200" height="400"   alt="Top Languages">
   </div>
 
