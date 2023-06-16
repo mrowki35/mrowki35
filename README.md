@@ -2,12 +2,19 @@
     <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
   </div>
   
----
+-------
+<div align="center">
+  <h3>SOFTWARE DEVELOPER FROM POLAND</h3>
+</div>
+
+-------
 
 - 🔭 I’m currently working on AI to automatically get product prices from websites and an algorithm to predict stock prices
-- 🌱 I’m currently learning German and continuously improving my skills in C++ and Python
-- 📫 How to reach me: [my LinkedIn profile](www.linkedin.com/in/przorlik)
-- ⚡ Fun fact: I am in love with guinea pigs
+- 🌱 I’m currently learning German and continuously improving my skills in **C++ and Python**
+- ⚡ Fun fact: On most media i stick to nickname **SiLenT**
+- 🚀 I’m looking for **a job as Python Developer**
+- 📌 How to reachy me: [My LinkedIn](https://www.linkedin.com/in/przorlik)
+- 🤖 Take a look at my projects here: [My Portfolio](https://github.com/mrowki35?tab=repositories)
 
 ## Languages
 
