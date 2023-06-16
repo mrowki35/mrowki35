@@ -36,10 +36,5 @@
   </div>
 </div>
 
-
-![Alternatywny tekst](stats.svg)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrowki35&layout=compact&theme=dracula" alt="Alternatywny tekst" style="position:absolute; z-index:1; top:0; left:0;">
-
-
 -------
 
