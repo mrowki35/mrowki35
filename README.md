@@ -1,8 +1,7 @@
 <div style="width: 100%;">
     <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
   </div>
-[![Header]([hello.svg](https://github.com/mrowki35/mrowki35/blob/main/hello.svg) "Header")](hello.svg)
-
+  
 -------
 <div align="center">
   <h3>SOFTWARE DEVELOPER FROM POLAND</h3>
