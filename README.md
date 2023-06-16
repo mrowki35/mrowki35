@@ -17,4 +17,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrowki35&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Image alt text](hello-animated.svg)
+![Image alt text](hello.svg)
