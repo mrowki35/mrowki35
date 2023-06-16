@@ -18,10 +18,10 @@
 - 🤖 Take a look at my projects here: [My Portfolio](https://github.com/mrowki35?tab=repositories)
 
 -------
-## Technologies and Tools
+## 🎯 Technologies and Tools
 
 -------
-## My Github stats
+## 📈 My Github stats
 <div align="center">
   <div style="display: flex; justify-content: center;">
     <div style="flex: 50%; text-align: center;">
