@@ -27,6 +27,7 @@
           animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
           margin-left: 5px;
+          transform-origin: 70% 70%;
         }
 
         .subtitle {
