@@ -72,7 +72,6 @@
           }
         }
 
-        /* Zasady mediów */
         @media (prefers-color-scheme: light) {
           .container {
             --color-main: #F15BB5;
