@@ -37,7 +37,7 @@
 </div>
 
 
-
+![Alternatywny tekst](stats.svg)
 
 
 -------
