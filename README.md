@@ -23,8 +23,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mrowki35&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" style="flex: 1;">
   </div>
 </div>
-
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrowki35&layout=compact&theme=dracula" width="200" height="400"   alt="Top Languages">
-  </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrowki35&layout=compact&theme=dracula" alt="Top Languages"/>
+    </div>
+    
+---
 
