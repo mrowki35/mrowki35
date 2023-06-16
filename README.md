@@ -17,15 +17,12 @@
 
 ## My Github stats
 
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=mrowki35&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrowki35&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrowki35&show_icons=true&theme=dracula)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrowki35&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
-</div>
-
-<div align="center">
+  <div style="width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrowki35&layout=compact&theme=dracula" alt="Top Languages">
+    </div>
 </div>
 
