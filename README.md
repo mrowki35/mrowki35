@@ -1,9 +1,6 @@
-<div align="center">
-  <div style="width: 100%;">
+<div style="width: 100%;">
     <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
   </div>
-</div>
-
 ---
 
 - 🔭 I’m currently working on AI to automatically get product prices from websites and an algorithm to predict stock prices
