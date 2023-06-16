@@ -1,15 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="300">
   <rect width="800" height="300" fill="#282a36" />
-  <foreignObject width="600" height="200" x="100" y="50">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <!-- Tutaj dodaj kod HTML z obrazkami -->
-      <img src="https://github-readme-stats.vercel.app/api?username=mrowki35&show_icons=true&theme=dracula" alt="GitHub Stats" style="max-width: 100%; max-height: 200px;" />
-      <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=mrowki35&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="max-width: 100%; max-height: 200px;" />
-      </a>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrowki35&layout=compact&theme=dracula" alt="Top Languages" style="max-width: 100%; max-height: 200px;" />
-    </div>
-  </foreignObject>
 </svg>
 
 
