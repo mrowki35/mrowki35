@@ -28,11 +28,11 @@
       <img src="http://github-readme-streak-stats.herokuapp.com?user=mrowki35&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
     </a>
     <img src="https://github-readme-stats.vercel.app/api?username=mrowki35&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrowki35&layout=compact&theme=dracula" alt="Top Languages" style="flex: 1;">
   </div>
 </div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrowki35&layout=compact&theme=dracula" alt="Top Languages"/>
-    </div>
+
+
     
 ---
 
