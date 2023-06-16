@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
+  <style>
+    .animated-text {
+      background: linear-gradient(45deg, #ff0066, #00ff99);
+      background-size: 200% 200%;
+      -webkit-animation: gradient-animation 3s ease-in-out infinite;
+      -moz-animation: gradient-animation 3s ease-in-out infinite;
+      animation: gradient-animation 3s ease-in-out infinite;
+    }
+  
+    @-webkit-keyframes gradient-animation {
+      0% {
+        background-position: 0% 50%;
+      }
+      50% {
+        background-position: 100% 50%;
+      }
+      100% {
+        background-position: 0% 50%;
+      }
+    }
+  
+    @-moz-keyframes gradient-animation {
+      0% {
+        background-position: 0% 50%;
+      }
+      50% {
+        background-position: 100% 50%;
+      }
+      100% {
+        background-position: 0% 50%;
+      }
+    }
+  
+    @keyframes gradient-animation {
+      0% {
+        background-position: 0% 50%;
+      }
+      50% {
+        background-position: 100% 50%;
+      }
+      100% {
+        background-position: 0% 50%;
+      }
+    }
+  </style>
+  <text x="0" y="35" font-size="32" fill="url(#gradient)" class="animated-text">Silent</text>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color: #ff0066;"/>
+      <stop offset="100%" style="stop-color: #00ff99;"/>
+    </linearGradient>
+  </defs>
+</svg>
