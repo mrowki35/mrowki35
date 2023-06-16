@@ -75,7 +75,7 @@
       </style>
 
       <div class="container">
-        <h1 style="display: inline-block; text-align: center;">Hi there, my name is Przemek <div class="hi">👋</div></h1>
+        <h1>Hi there, my name is Przemek <div class="hi">👋</div></h1>
       </div>
     </div>
   </foreignObject>
