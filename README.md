@@ -156,7 +156,5 @@
   </div>
 </div>
 
-![Generated Image](https://mrowki35.github.io/)
-
 -------
 
