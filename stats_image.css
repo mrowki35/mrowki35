@@ -1,0 +1,35 @@
+.container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-top: 75%; /* Ustalona proporcja dla obrazów */
+  background-image: url('https://raw.githubusercontent.com/mrowki35/mrowki35/eee8677207fb6b89eac08eb0f061d83967dd5b2d/stats.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation: imageAnimation 10s infinite; /* Animacja trwa 10 sekund i powtarza się w nieskończoność */
+}
+
+@keyframes imageAnimation {
+  0% {
+    background-image: url('https://github-readme-stats.vercel.app/api?username=mrowki35&show_icons=true&theme=dracula');
+  }
+  33% {
+    background-image: url('http://github-readme-streak-stats.herokuapp.com?user=mrowki35&theme=dracula&date_format=j%20M%5B%20Y%5D');
+  }
+  66% {
+    background-image: url('https://github-readme-stats.vercel.app/api/top-langs/?username=mrowki35&layout=compact&theme=dracula');
+  }
+  100% {
+    background-image: url('https://github-readme-stats.vercel.app/api?username=mrowki35&show_icons=true&theme=dracula');
+  }
+}
