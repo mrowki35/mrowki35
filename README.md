@@ -13,13 +13,13 @@
 - 🔭 I’m currently working on AI to automatically get product prices from websites and an algorithm to predict stock prices
 - 🌱 I’m currently learning German and continuously improving my skills in **C++ and Python**
 - ⚡ Fun fact: On most media i stick to nickname **SiLenT**
-- 🚀 I’m looking for **a job as Python Developer**
+- 🎯 I’m looking for **a job as Python Developer**
 - 📌 How to reach me: [My LinkedIn](https://www.linkedin.com/in/przorlik)
-- 🤖 Take a look at my projects here: [My Portfolio](https://github.com/mrowki35?tab=repositories)
-- Interested in: **Finance, Technology, Science**
+- 🚀 Take a look at my projects here: [My Portfolio](https://github.com/mrowki35?tab=repositories)
+- 💫 Interested in: **Finance, Technology, Science**
 
 -------
-## 🎯 Technologies and Tools
+## 🤖 Technologies and Tools
 
 <div align="center">
   <table>
@@ -36,7 +36,7 @@
      <td align="center" width=110>
      <img height=60 src="https://img.icons8.com/color/144/c-programming.png"/></td>
      <td align="center" width=110>
-     <img height=60 src="https://img.icons8.com/?size=512&id=21278&format=png" /></td>
+     <img height=60 src="file-type-kivy.svg" /></td>
      <td align="center" width=110>
      <img height=60 src="https://img.icons8.com/?size=200&id=21831&format=png"/></td>
      <td align="center" width=110>
@@ -46,7 +46,7 @@
      <td align="center" width=110>Python</td>
      <td align="center" width=110>C++</td>
      <td align="center" width=110>C</td>
-     <td align="center" width=110>CSS</td>
+     <td align="center" width=110>Kivy</td>
      <td align="center" width=110>Markdown</td>
      <td align="center" width=110>Bash</td>
     </tr>
