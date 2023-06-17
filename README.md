@@ -143,7 +143,7 @@
 -------
 ## 📈 My Github stats
 <div align="center">
-  <div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: center; ">
     <div style="flex: 50%; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=mrowki35&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" style="max-width: 100%; max-height: 200px;">
     </div>
